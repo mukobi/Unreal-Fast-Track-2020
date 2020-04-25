@@ -814,3 +814,663 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.25-21.19.22:452][496]LogSlate: Window 'Source Control Login' being destroyed
 [2020.04.25-21.19.25:460][746]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
 [2020.04.25-21.19.25:849][746]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.19.49:232][255]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.04.25-21.19.49:586][255]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.19.52:572][582]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.19.53:774][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.04.25-21.19.53:832][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.04.25-21.19.56:053][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.19.58:532][250]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.25-21.20.45:214][486]LogRenderer: Reallocating scene render targets to support 1616x872 Format 10 NumSamples 1 (Frame:60855).
+[2020.04.25-21.20.45:283][492]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.04.25-21.21.28:964][508]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.04.25-21.21.59:501][103]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.04.25-21.23.59:728][980]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.04.25-21.23.59:734][980]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.04.25-21.24.03:199][377]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.24.05:762][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.25-21.24.05:944][638]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMapC25456C6409E3F2901E598B120F23686.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.24.06:272][638]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap_BuiltData7B46F8D049A1F841CA1943947526B98C.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.25-21.24.06:296][638]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.25-21.24.06:296][638]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.24.06:296][638]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.25-21.24.09:020][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.24.09:288][966]Cmd: TRANSACTION UNDO
+[2020.04.25-21.24.09:288][966]LogEditorTransaction: Undo Clicking on Actors
+[2020.04.25-21.24.14:981][581]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.24.15:006][581]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.04.25-21.24.15:954][689]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.04.25-21.24.15:970][689]LogEditorViewport: Clicking on Actor (double click): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.24.20:776][226]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.24.29:570][236]LogTemp: Repeating last play command: Simulate
+[2020.04.25-21.24.29:586][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.24.29:587][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-21.24.29:587][236]PIE: New page: SIE session: ThirdPersonExampleMap (25 Apr 2020, 07:24:29)
+[2020.04.25-21.24.29:588][236]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.25-21.24.29:589][236]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.25-21.24.29:589][236]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.24.29:600][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010312s)
+[2020.04.25-21.24.29:601][236]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.25-21.24.29:601][236]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2020.04.25-21.24.29:601][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011902s)
+[2020.04.25-21.24.29:631][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.25-21.24.29:634][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.25-21.24.29:634][236]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.25-21.24.29:634][236]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Name: OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Is Default: Yes
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Sample Rate: 44100
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: Channel Order:
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.25-21.24.29:687][236]LogAudioMixer: Display: 1: FrontRight
+[2020.04.25-21.24.29:707][236]LogAudioMixer: Display: Using Audio Device OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.24.29:708][236]LogInit: FAudioDevice initialized.
+[2020.04.25-21.24.29:719][236]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.25-21.24.29:721][236]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.25-14.24.29
+[2020.04.25-21.24.29:721][236]LogWorld: Bringing up level for play took: 0.001242
+[2020.04.25-21.24.29:722][236]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.25-21.24.29:726][236]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.25-21.24.29:726][236]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.12
+[2020.04.25-21.24.29:753][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.24.33:355][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.24.33:649][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.25.02:418][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.02:418][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.02:418][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.02:419][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.25.02:419][ 33]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.25.02:419][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.02:419][ 33]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.25.02:419][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.25.02:428][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-21.25.02:428][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.02:431][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.25.02:455][ 33]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.02:458][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.25.02:461][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.04.25-21.25.02:518][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.25-21.25.03:818][187]LogTemp: Repeating last play command: Simulate
+[2020.04.25-21.25.03:836][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.03:836][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-21.25.03:836][187]PIE: New page: SIE session: ThirdPersonExampleMap (25 Apr 2020, 07:25:03)
+[2020.04.25-21.25.03:836][187]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.25.03:848][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011623s)
+[2020.04.25-21.25.03:848][187]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.25-21.25.03:849][187]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2020.04.25-21.25.03:849][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013272s)
+[2020.04.25-21.25.03:878][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.25-21.25.03:879][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.25-21.25.03:879][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.25-21.25.03:880][187]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.25-21.25.03:880][187]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Name: OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Is Default: Yes
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Sample Rate: 44100
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: Channel Order:
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.25-21.25.03:932][187]LogAudioMixer: Display: 1: FrontRight
+[2020.04.25-21.25.03:951][187]LogAudioMixer: Display: Using Audio Device OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.25.03:953][187]LogInit: FAudioDevice initialized.
+[2020.04.25-21.25.03:958][187]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.25-21.25.03:959][187]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.25-14.25.03
+[2020.04.25-21.25.03:960][187]LogWorld: Bringing up level for play took: 0.001219
+[2020.04.25-21.25.03:960][187]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.04.25-21.25.03:961][187]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.354
+[2020.04.25-21.25.03:962][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.25:054][542]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (LeftArm_StaticMesh)
+[2020.04.25-21.25.33:086][449]Cmd: SELECT NONE
+[2020.04.25-21.25.33:994][539]Cmd: SELECT NONE
+[2020.04.25-21.25.34:511][600]Cmd: SELECT NONE
+[2020.04.25-21.25.34:893][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.04.25-21.25.35:068][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.35:068][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.35:068][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.35:068][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.25.35:068][655]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.25.35:069][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.35:069][655]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.25.35:069][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.25.35:075][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-21.25.35:075][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.35:079][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.25.35:103][655]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.25.35:107][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.25.35:109][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.25-21.25.35:168][659]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.25-21.25.55:751][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.25.55:751][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-21.25.55:751][ 91]PIE: New page: SIE session: ThirdPersonExampleMap (25 Apr 2020, 07:25:55)
+[2020.04.25-21.25.55:751][ 91]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.25.55:765][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013800s)
+[2020.04.25-21.25.55:766][ 91]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.25-21.25.55:766][ 91]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2020.04.25-21.25.55:766][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015022s)
+[2020.04.25-21.25.55:796][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.25-21.25.55:799][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.25-21.25.55:799][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.25-21.25.55:800][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.25-21.25.55:800][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Name: OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Is Default: Yes
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Sample Rate: 44100
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: Channel Order:
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.25-21.25.55:860][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.04.25-21.25.55:879][ 91]LogAudioMixer: Display: Using Audio Device OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.25.55:881][ 91]LogInit: FAudioDevice initialized.
+[2020.04.25-21.25.55:891][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.25-21.25.55:892][ 91]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.25-14.25.55
+[2020.04.25-21.25.55:893][ 91]LogWorld: Bringing up level for play took: 0.001201
+[2020.04.25-21.25.55:893][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.04.25-21.25.55:894][ 91]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.287
+[2020.04.25-21.25.55:895][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.26.07:633][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.26.07:634][447]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.25-21.26.07:654][447]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.25-21.26.07:654][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.26.07:654][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.26.07:654][447]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.26.07:654][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.26.07:654][447]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.26.07:654][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.26.07:658][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-21.26.07:659][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.26.07:662][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.26.07:687][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.26.07:690][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.26.07:692][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.04.25-21.26.07:739][449]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.25-21.29.32:997][685]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.25-21.29.35:036][919]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.04.25-21.29.38:531][331]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall10)
+[2020.04.25-21.29.38:578][331]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.25-21.29.39:040][377]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.04.25-21.29.45:820][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.04.25-21.29.49:788][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.04.25-21.29.54:437][189]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.29.55:146][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.04.25-21.29.59:606][789]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.30.01:508][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.04.25-21.30.02:476][114]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.30.04:702][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.30.06:368][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.30.11:784][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.04.25-21.30.17:896][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.30.19:046][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.30.20:909][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.04.25-21.30.21:217][279]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.33.01:016][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.25-21.33.01:249][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.25-21.33.01:411][390]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap191477124D65746748156DA8B3F01F67.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.33.01:458][390]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.242
+[2020.04.25-21.33.01:471][390]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.04.25-21.33.01:471][390]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.34.17:841][139]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.25-21.34.17:891][145]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.25-21.34.17:925][149]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.25-21.34.18:366][202]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.25-21.34.18:433][209]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.25-21.34.18:840][257]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.25-21.34.20:083][406]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.04.25-21.34.20:833][495]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.04.25-21.34.51:344][951]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.04.25-21.34.51:356][951]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.04.25-21.34.51:372][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.04.25-21.34.51:387][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.04.25-21.34.51:402][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.04.25-21.34.51:417][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.04.25-21.34.51:434][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.04.25-21.34.51:450][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.04.25-21.34.51:467][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.04.25-21.34.51:484][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.04.25-21.34.51:501][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.04.25-21.34.51:517][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.04.25-21.34.51:533][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.04.25-21.34.51:549][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.04.25-21.34.51:566][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.04.25-21.34.51:579][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.04.25-21.34.51:595][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.04.25-21.34.51:612][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.04.25-21.34.51:625][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.04.25-21.34.51:639][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Fire01.uasset"
+[2020.04.25-21.34.51:651][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.04.25-21.34.51:667][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.04.25-21.34.51:677][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.04.25-21.34.51:691][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Light01.uasset"
+[2020.04.25-21.34.51:701][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.04.25-21.34.51:714][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Light02.uasset"
+[2020.04.25-21.34.51:724][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.04.25-21.34.51:737][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.04.25-21.34.51:747][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.04.25-21.34.51:760][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.04.25-21.34.51:776][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.04.25-21.34.51:801][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.04.25-21.34.51:811][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.04.25-21.34.51:828][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.04.25-21.34.51:844][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.04.25-21.34.51:858][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Steam01.uasset"
+[2020.04.25-21.34.51:867][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.04.25-21.34.51:882][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.04.25-21.34.51:894][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.04.25-21.34.51:907][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.04.25-21.34.51:919][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.04.25-21.34.51:932][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.04.25-21.34.51:945][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.04.25-21.34.51:958][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.04.25-21.34.51:971][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.04.25-21.34.51:980][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.04.25-21.34.51:995][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.04.25-21.34.52:009][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.04.25-21.34.52:022][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.04.25-21.34.52:035][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.04.25-21.34.52:049][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.04.25-21.34.52:073][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.04.25-21.34.52:083][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.04.25-21.34.52:154][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.04.25-21.34.52:168][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.04.25-21.34.52:184][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.04.25-21.34.52:198][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.04.25-21.34.52:216][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.04.25-21.34.52:229][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/StarterMap.umap"
+[2020.04.25-21.34.52:267][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.04.25-21.34.52:280][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.04.25-21.34.52:293][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.04.25-21.34.52:306][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.04.25-21.34.52:324][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.04.25-21.34.52:340][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.04.25-21.34.52:358][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.04.25-21.34.52:374][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.04.25-21.34.52:391][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.04.25-21.34.52:404][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.04.25-21.34.52:418][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.04.25-21.34.52:433][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.04.25-21.34.52:447][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.04.25-21.34.52:462][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.04.25-21.34.52:478][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.04.25-21.34.52:492][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.04.25-21.34.52:506][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.04.25-21.34.52:521][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.04.25-21.34.52:534][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.04.25-21.34.52:548][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.04.25-21.34.52:562][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.04.25-21.34.52:576][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.04.25-21.34.52:591][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.04.25-21.34.52:604][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.04.25-21.34.52:619][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.04.25-21.34.52:633][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.04.25-21.34.52:646][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.04.25-21.34.52:659][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.04.25-21.34.52:673][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.04.25-21.34.52:687][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.04.25-21.34.52:701][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.04.25-21.34.52:715][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.04.25-21.34.52:728][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.04.25-21.34.52:742][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.04.25-21.34.52:758][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.04.25-21.34.52:772][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.04.25-21.34.52:785][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.04.25-21.34.52:798][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.04.25-21.34.52:812][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.04.25-21.34.52:827][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.04.25-21.34.52:842][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.04.25-21.34.52:855][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.04.25-21.34.52:868][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.04.25-21.34.52:883][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.04.25-21.34.52:896][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.04.25-21.34.52:911][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.04.25-21.34.52:923][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.04.25-21.34.52:936][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.04.25-21.34.52:949][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.04.25-21.34.52:962][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.04.25-21.34.52:975][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.04.25-21.34.52:986][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.04.25-21.34.52:999][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.04.25-21.34.53:012][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.04.25-21.34.53:025][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.04.25-21.34.53:037][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.04.25-21.34.53:049][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.04.25-21.34.53:062][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.04.25-21.34.53:073][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.04.25-21.34.53:085][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.04.25-21.34.53:097][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.04.25-21.34.53:113][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.04.25-21.34.53:125][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.04.25-21.34.53:137][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.04.25-21.34.53:149][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.04.25-21.34.53:161][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Door.uasset"
+[2020.04.25-21.34.53:173][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.04.25-21.34.53:189][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.04.25-21.34.53:201][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.04.25-21.34.53:213][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.04.25-21.34.53:229][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.04.25-21.34.53:240][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.04.25-21.34.53:251][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.04.25-21.34.53:264][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.04.25-21.34.53:275][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.04.25-21.34.53:287][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.04.25-21.34.53:300][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.04.25-21.34.53:332][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.04.25-21.34.53:346][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.04.25-21.34.53:361][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.04.25-21.34.53:374][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.04.25-21.34.53:388][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.04.25-21.34.53:401][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.04.25-21.34.53:413][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.04.25-21.34.53:429][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.04.25-21.34.53:442][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.04.25-21.34.53:454][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.04.25-21.34.53:467][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.04.25-21.34.53:480][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.04.25-21.34.53:493][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.04.25-21.34.53:506][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.04.25-21.34.53:519][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.04.25-21.34.53:532][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.04.25-21.34.53:549][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.04.25-21.34.53:562][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.04.25-21.34.53:576][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.04.25-21.34.53:590][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.04.25-21.34.53:601][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.04.25-21.34.53:613][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.04.25-21.34.53:627][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.04.25-21.34.53:639][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.04.25-21.34.53:651][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.04.25-21.34.53:664][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.04.25-21.34.53:677][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.04.25-21.34.53:690][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.04.25-21.34.53:701][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.04.25-21.34.53:714][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.04.25-21.34.53:726][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.04.25-21.34.53:739][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.04.25-21.34.53:751][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.04.25-21.34.53:775][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.04.25-21.34.53:800][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.04.25-21.34.53:822][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.04.25-21.34.53:845][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.04.25-21.34.53:870][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.04.25-21.34.53:895][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.04.25-21.34.53:921][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.04.25-21.34.53:945][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.04.25-21.34.53:974][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.04.25-21.34.53:996][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.04.25-21.34.54:019][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.04.25-21.34.54:038][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.04.25-21.34.54:063][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.04.25-21.34.54:074][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.04.25-21.34.54:087][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.04.25-21.34.54:101][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.04.25-21.34.54:115][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.04.25-21.34.54:129][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.04.25-21.34.54:143][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.04.25-21.34.54:168][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.04.25-21.34.54:184][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.04.25-21.34.54:211][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.04.25-21.34.54:226][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.04.25-21.34.54:255][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.04.25-21.34.54:274][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.04.25-21.34.54:292][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.04.25-21.34.54:342][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.04.25-21.34.54:364][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.04.25-21.34.54:390][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.04.25-21.34.54:415][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.04.25-21.34.54:438][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.04.25-21.34.54:459][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.04.25-21.34.54:486][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.04.25-21.34.54:508][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.04.25-21.34.54:526][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.04.25-21.34.54:546][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.04.25-21.34.54:569][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.04.25-21.34.54:578][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.04.25-21.34.54:597][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.04.25-21.34.54:609][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.04.25-21.34.54:623][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.04.25-21.34.54:635][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.04.25-21.34.54:650][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.04.25-21.34.54:663][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.04.25-21.34.54:676][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.04.25-21.34.54:687][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.04.25-21.34.54:700][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.04.25-21.34.54:708][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.04.25-21.34.54:735][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.04.25-21.34.54:762][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.04.25-21.34.54:788][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.04.25-21.34.54:809][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.04.25-21.34.54:844][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.04.25-21.34.54:867][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.04.25-21.34.54:880][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.04.25-21.34.54:895][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.04.25-21.34.54:920][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.04.25-21.34.54:944][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.04.25-21.34.54:969][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.04.25-21.34.54:992][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.04.25-21.34.55:011][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.04.25-21.34.55:036][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.04.25-21.34.55:059][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.04.25-21.34.55:077][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.04.25-21.34.55:098][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.04.25-21.34.55:124][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.04.25-21.34.55:142][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.04.25-21.34.55:163][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.04.25-21.34.55:189][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.04.25-21.34.55:214][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.04.25-21.34.55:235][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.04.25-21.34.55:261][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.04.25-21.34.55:287][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.04.25-21.34.55:316][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.04.25-21.34.55:343][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.04.25-21.34.55:369][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.04.25-21.34.55:384][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.04.25-21.34.55:399][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.04.25-21.34.55:409][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.04.25-21.34.55:423][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.04.25-21.34.55:435][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.04.25-21.34.55:447][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.04.25-21.34.55:462][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.04.25-21.34.55:475][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.04.25-21.34.55:510][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.04.25-21.34.55:526][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.04.25-21.34.55:538][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.04.25-21.34.55:550][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.04.25-21.34.55:564][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.04.25-21.34.55:588][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.04.25-21.34.55:606][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.04.25-21.34.55:622][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.04.25-21.34.55:638][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.04.25-21.34.55:652][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.04.25-21.34.55:670][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.04.25-21.34.55:689][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.04.25-21.34.55:709][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.04.25-21.34.55:729][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.04.25-21.34.55:749][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.04.25-21.34.55:775][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.04.25-21.34.55:792][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.04.25-21.34.55:812][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.04.25-21.34.55:828][951]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.04.25-21.35.33:231][951]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.04.25-21.35.33:234][951]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.04.25-21.35.33:557][951]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/Floor_400x400ACD972294BD949BDBCC598AFA3EF4D13.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.04.25-21.35.33:619][951]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.04.25-21.35.33:619][951]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.04.25-21.38.57:271][714]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.04.25-21.38.58:193][809]LogActorFactory: Actor Factory created Wall_400x300
+[2020.04.25-21.38.59:409][938]LogActorFactory: Actor Factory created Wall_400x300
+[2020.04.25-21.39.00:358][ 24]LogActorFactory: Actor Factory created SM_AssetPlatform
+[2020.04.25-21.39.00:834][ 71]LogActorFactory: Actor Factory created SM_AssetPlatform
+[2020.04.25-21.39.33:344][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.39.34:108][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.39.36:651][164]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.39.42:685][882]Cmd: ACTOR SELECT ALL
+[2020.04.25-21.39.43:131][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.25-21.39.43:303][901]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMapA5957CC6425A491313C3FBAE22E512B7.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.39.43:581][901]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap_BuiltData3DAF5DCB4D10B7E72B5D4A856AD2A0B7.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.25-21.39.43:601][901]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.25-21.39.43:601][901]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.39.43:601][901]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.25-21.39.47:591][374]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (LeftArm_StaticMesh)
+[2020.04.25-21.39.48:269][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.04.25-21.39.48:897][465]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.39.49:817][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.25-21.39.49:977][535]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMapC868B5D543BCBCDA9730EBADC76E5452.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.39.50:260][535]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap_BuiltData95C8D72A4CCB9BD64A9617B4FF30FE2D.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.25-21.39.50:283][535]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.25-21.39.50:283][535]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.39.50:283][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.25-21.39.53:799][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.25-21.40.59:658][ 32]LogSlate: Window 'Open external link' being destroyed
+[2020.04.25-21.41.01:382][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.41.03:190][212]LogSlate: Window 'Open external link' being destroyed
+[2020.04.25-21.41.03:685][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.41.03:881][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.41.04:676][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.41.05:138][416]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.04.25-21.41.05:444][439]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.41.50:782][751]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.04.25-21.41.55:844][279]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.25-21.41.57:594][481]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.04.25-21.42.19:966][950]LogActorFactory: Actor Factory created SM_Couch
+[2020.04.25-21.42.22:791][256]LogActorFactory: Actor Factory created SM_Couch
+[2020.04.25-21.42.30:520][130]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2020.04.25-21.42.31:651][246]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2020.04.25-21.42.35:472][659]LogActorFactory: Actor Factory created SM_Statue
+[2020.04.25-21.42.36:709][782]LogActorFactory: Actor Factory created SM_Statue
+[2020.04.25-21.42.47:519][ 59]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.04.25-21.42.50:757][411]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.04.25-21.42.50:828][412]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.04.25-21.42.50:843][412]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.04.25-21.42.50:889][413]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.04.25-21.42.50:927][414]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.04.25-21.42.50:972][416]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 102
+[2020.04.25-21.42.52:522][495]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 92
+[2020.04.25-21.42.52:522][495]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2020.04.25-21.42.52:634][498]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 72
+[2020.04.25-21.42.52:760][504]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 62
+[2020.04.25-21.42.53:111][525]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2020.04.25-21.42.53:542][551]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.04.25-21.42.53:664][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.04.25-21.42.53:695][560]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2020.04.25-21.42.54:469][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2020.04.25-21.42.54:653][612]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2020.04.25-21.42.54:867][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.04.25-21.42.55:066][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.04.25-21.42.55:098][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.04.25-21.42.55:393][661]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.04.25-21.42.55:490][668]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.04.25-21.42.55:507][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.04.25-21.42.55:668][679]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.04.25-21.42.55:900][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.04.25-21.42.56:017][701]LogTemp: Repeating last play command: Simulate
+[2020.04.25-21.42.56:041][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.42.56:041][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-21.42.56:041][701]PIE: New page: SIE session: ThirdPersonExampleMap (25 Apr 2020, 07:42:56)
+[2020.04.25-21.42.56:041][701]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.42.56:059][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018221s)
+[2020.04.25-21.42.56:061][701]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.25-21.42.56:061][701]LogPlayLevel: PIE: World Init took: (0.001836s)
+[2020.04.25-21.42.56:061][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020270s)
+[2020.04.25-21.42.56:099][701]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.25-21.42.56:111][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.25-21.42.56:115][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.25-21.42.56:115][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.25-21.42.56:116][701]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.25-21.42.56:116][701]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Name: OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Is Default: Yes
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Sample Rate: 44100
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: Channel Order:
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.25-21.42.56:197][701]LogAudioMixer: Display: 1: FrontRight
+[2020.04.25-21.42.56:227][701]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.04.25-21.42.56:227][701]LogAudioMixer: Display: Using Audio Device OUT 1-2 (3- BEHRINGER UMC 202HD 192k)
+[2020.04.25-21.42.56:231][701]LogInit: FAudioDevice initialized.
+[2020.04.25-21.42.56:243][701]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.25-21.42.56:246][701]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.04.25-14.42.56
+[2020.04.25-21.42.56:247][701]LogWorld: Bringing up level for play took: 0.002525
+[2020.04.25-21.42.56:247][701]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.25-21.42.56:250][701]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.643
+[2020.04.25-21.42.56:276][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.42.56:341][702]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.04.25-21.42.56:373][702]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.04.25-21.42.56:436][704]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.04.25-21.43.32:775][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.43.32:795][ 52]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.25-21.43.32:815][ 52]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.25-21.43.32:815][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.43.32:815][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.43.32:815][ 52]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.04.25-21.43.32:815][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.43.32:815][ 52]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-21.43.32:816][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.43.32:819][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-21.43.32:820][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.04.25-21.43.32:823][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.25-21.43.32:846][ 52]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-21.43.32:850][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-21.43.32:852][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.25-21.43.32:878][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.25-21.43.33:859][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.25-21.43.34:032][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.04.25-21.43.34:182][165]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap3454DD6F4CFDE7B6FEF1408D6AEF6AF4.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.43.34:226][165]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.225
+[2020.04.25-21.43.34:239][165]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.04.25-21.43.34:239][165]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.43.36:662][392]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.04.25-21.43.37:022][392]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.43.46:153][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.04.25-21.43.47:079][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.25-21.43.47:255][144]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap5357127A441DD73890E7048F0797BEFB.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.25-21.43.47:529][144]LogSavePackage: Moving '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Saved/ThirdPersonExampleMap_BuiltData0C409CB74044EB3B53623BBC45300323.tmp' to '../../../../../../Users/Gabe/Documents/GitHub/Unreal-Fast-Track-2020/Week 1/FirstHourProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.04.25-21.43.47:551][144]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.25-21.43.47:551][144]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.04.25-21.43.47:551][144]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.04.25-21.43.53:017][709]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.04.25-21.43.53:376][709]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.44.15:375][206]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.25-21.44.18:227][437]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.04.25-21.44.18:585][437]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.46.41:634][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.25-21.47.05:069][963]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.25-21.47.07:498][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.04.25-21.47.07:853][129]EditorErrors: Warning: No assets to check in!
+[2020.04.25-21.49.15:971][615]LogSlate: Window 'Source Control Login' being destroyed
